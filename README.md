@@ -1,1 +1,1 @@
-# guild-base-rols,başarı
+# guild-base-rols,başarı zamanla olur
