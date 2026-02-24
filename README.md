@@ -1,1 +1,1 @@
-# guild-base-rols,görev
+# guild-base-rols,başarı
